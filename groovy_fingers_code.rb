@@ -1,3 +1,7 @@
+# Groovy Fingers Source Code
+# Teethat Ananthothai - 17/11/2021
+# Execute this code on the Sonic Pi platform only 
+
 live_loop :foo do
   sample :loop_garzul
   use_synth :prophet
