@@ -1,4 +1,4 @@
-# Groovy Fingers Source Code
+# Groovy Fingers
 # Teethat Ananthothai - 17/11/2021
 # Execute this code on the Sonic Pi platform only 
 
