@@ -1,5 +1,5 @@
 # Groovy Fingers
-Groovy Fingers is a short electronic dance music soundtrack written in code using ruby syntax. This mini project makes use of the platform Sonic Pi, a code based music creation and performance tool. The author submitted this soundtrack as part of a friendly programming challenge between analysts in a Security Operations Center of a Fortune 500 firm. Attached in this repository is an mp3 file of the sountrack that can be downloaded and played.
+Groovy Fingers is a short electronic dance music soundtrack written in code using ruby syntax. This mini project makes use of the platform Sonic Pi, a code based music creation and performance tool. The author submitted this soundtrack as part of a friendly programming challenge between analysts at a Fortune 500 firm's Security Operations Center. Attached in this repository is an mp3 file of the sountrack that can be downloaded and played.
 
 More about Sonic Pi: https://sonic-pi.net/
 
